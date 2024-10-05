@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/prosecutorToolkit/prosecutor/main/logo.jpg?token=GHSAT0AAAAAACQ5O5MTX6WGUBGEH5WPOTSMZRG5WWQ" width="200">
+    <img src="https://raw.githubusercontent.com/TobiasCoding/prosecutor/refs/heads/main/logo.jpg" width="200">
 </p>
 
 # About
@@ -51,4 +51,4 @@ ______________________
 
 
 ______________________
-***Name: Prosecutor Toolkit |   Vertion: 1.0    |   Date and place of creation: 18/06/2022, La Plata - Argentina    |   First commit: 29/04/2023    |   Author: Tobías Rímoli   |   Contact: Tobiasrimoli@protonmail.com***
+***Name: Prosecutor Toolkit |   Vertion: 1.0    |   Date and place of creation: 18/06/2022, La Plata - Argentina    |   Author: Tobías Rímoli   |   Contact: Tobiasrimoli@protonmail.com***
